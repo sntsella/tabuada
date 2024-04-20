@@ -9,7 +9,7 @@ Este é um projeto simples de tabuada desenvolvido com HTML, CSS e JavaScript.
 # Como usar
 Clone este repositório para o seu computador:
 ```
-git clone https://github.com/sntsella/cronometro.git
+https://github.com/sntsella/tabuada.git
 ```
 
 # Licença
